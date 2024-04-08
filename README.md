@@ -1,16 +1,7 @@
-# gestion_du_temps
+Pour réaliser ce programme, j’ai utilisé Android Studio, un environnement de développement intégré (IDE). Avec Android Studio, j'ai utilisé le framework Flutter, développé par Google, pour créer des applications mobiles natives pour Android, IOS ainsi que d’autre support.
 
-A new Flutter project.
+L’application développer est un gestionnaire de temps qui possède plsueiurs paramètres modifiable par l'utilisateur.
 
-## Getting Started
+Une partie du code nous a été founis par par M. JUGE-HUBERT (graphique) et j'ai donc réalisé la partie fonctionnel de l'application. L’objectif principale était de comprendre le positionnement des widgets dans l'espaces ainsi que la transition des informations entre les différentes pages.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mendy Auguste
